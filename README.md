@@ -10,7 +10,7 @@ EXAMPLE #2 - Get 10 cat facts!
 
 	Get-CatFacts -Number 10
    
-To be greeted with an amazing cat fact every time you open your PowerShell console, save a copy of Get-CatFacts.psm1 inside a folder named Get-CatFacts in your %userprofile%\Documents\WindowsPowerShell\Modules\ directory. Then add the following lines to your powershell profile (powershell_ise $profile to edit quickly from console):
+To be greeted with an amazing cat fact each and every time you open your PowerShell console, save a copy of Get-CatFacts.psm1 inside a folder named Get-CatFacts in your %userprofile%\Documents\WindowsPowerShell\Modules\ directory. Then add the following lines to your powershell profile (powershell_ise $profile to edit quickly from console):
 
 	Import-Module Get-CatFacts
 
